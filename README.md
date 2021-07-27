@@ -1,5 +1,5 @@
 
-# <center> 🏠💰House Pricing Prediction Using Regression </center>
+# <center>🏠💰House Pricing Prediction Using Regression
 
 ![house demo](house.png)
 
@@ -20,7 +20,7 @@ Linear Regression, Decision Tree Regression, Random Forest Regression, Support V
 
 Calculating the model error using RMSE(Root Mean Square Error), we pick **Decision Tree Regressor** with an error of $9650$ for predicting prices from the test data set and implementing the feature importance method.
 
-**Table of Contents:** 
+**Sections:** 
  1. Data Exploration
 	 - 1.1. Data Description
 2. Data Analysis
