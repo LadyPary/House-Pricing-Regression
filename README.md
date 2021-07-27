@@ -18,7 +18,7 @@ This project provides an optimized prediction algorithm using machine learning r
 
 Linear Regression, Decision Tree Regression, Random Forest Regression, Support Vector Machine (SVM), and Extreme Gradient Boost Regression (XGBoost) have been tested on this dataset. 
 
-Calculating the model error using RMSE(Root Mean Square Error), we pick **Decision Tree Regressor** with an error of $9650$ for predicting prices from the test data set and implementing the feature importance method.
+Calculating the model error using RMSE(Root Mean Square Error), we pick **Decision Tree Regressor** with an error of 9650 for predicting prices from the test data set and implementing the feature importance method.
 
 **Sections:** 
  1. Data Exploration
@@ -55,9 +55,8 @@ Calculating the model error using RMSE(Root Mean Square Error), we pick **Decisi
  - Google Colaboratory
 
 ### Usage
-Open **[House_Pricing.ipynb](https://github.com/LadyPary/HousePricingPrediction/blob/main/House_Pricing.ipynb)** . Then click on the **Open in Colab** badge. Please note that you need a google account to use colab.
-
-You do not need to be familiar with colab.
+Open **[House_Pricing.ipynb](https://github.com/LadyPary/HousePricingPrediction/blob/main/House_Pricing.ipynb)** . Then click on the **Open in Colab** badge. Please note that you need a google account to use colab but you do not need to be familiar with colab.
+	
 Click on *Runtime -> Run All*  to run the program on datasets provided in [Data](https://github.com/LadyPary/HousePricingPrediction/tree/main/Data) folder. 
 
 The predicted prices from the test dataset are saved as a CSV file. 
